@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Kim Seong Hyun"
 description              : "An amazing website."
 collections:
-  Beginner Project:
+  Beginner_Project:
     output: true
     permalink: /:collection/:path/
 url                      : "https://kimseonghyunn.github.io"
