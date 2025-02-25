@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "초급 프로젝트 협업 일지_01"
-author: 작성자
 date: 2025-02-13
-categories: [협업]
+categories: "Beginner Projects"
 tags: [프로젝트, 교통, 지하철 요금, 치킨, 데이터 분석]
+toc: true
 ---
 2025-02-13
 ---
